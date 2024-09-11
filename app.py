@@ -1,1 +1,1 @@
-rint("Hello World -> Latest V2")
+print("Hello World -> Latest V2")
